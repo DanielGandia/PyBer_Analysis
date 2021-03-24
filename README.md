@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Purpose of the analysis: 
-Analyze the companies ride share data for the urban, suburban and rural city types and provide suggestions based on the results obtained. 
+Analyze the companies ride share data for the urban, suburban and rural city types and provide recommendations for the CEO based on the results obtained. 
 ## Resources
 Data Sources: ride_data.csv, city_data.csv
 
