@@ -14,7 +14,7 @@ Below are a table and a chart visualizing the resulst of the data:
 
 ![rides_fares_per_city_type.png](https://github.com/DanielGandia/PyBer_Analysis/blob/main/analysis/rides_fares_per_city_type.png)
 
-![PyBer_fare_summary.png](https://github.com/DanielGandia/PyBer_Analysis/tree/main/analysis)
+![PyBer_fare_summary.png](https://github.com/DanielGandia/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 ## Summary: 
 
 Since the Urban area has an excess of drivers, a way to help spread the work around is to have some drivers also work in the Suburban and Rural areas. Below are three suggestions to assist with moving drivers to work in other areas:
